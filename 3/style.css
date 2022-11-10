@@ -1,0 +1,21 @@
+.main_block{
+    width: 90%;
+    background-color: blue;
+    height: 200px;
+}
+.second_block{
+    width: 90%;
+    height: 200px;
+    background-color: green;
+    margin-top: 20px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    border: none;
+}
+
+.red{
+    background-color: red;
+}
