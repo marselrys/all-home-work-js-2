@@ -56,14 +56,10 @@ phoneSubmit.addEventListener("click", () => {
 
 if(regexp.test(phoneName.value)){
     result.innerText = "Одобрено"
-    result.style.color = "green"
+    result.style.color = "заходи"
 }else{
     result.innerText = "Oшибка"
     result.style.color = "red"
 }
 
 })
-
-
-
-
